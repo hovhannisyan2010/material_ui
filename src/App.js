@@ -9,13 +9,7 @@ import { grey, red, purple } from '@mui/material/colors';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import AddCircleIcon from '@mui/icons-material/AddCircle';
 import RemoveCircleIcon from '@mui/icons-material/RemoveCircle';
-import ShareIcon from '@mui/icons-material/Share';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import MoreVertIcon from '@mui/icons-material/MoreVert';
-import Collapse from '@mui/material/Collapse';
-import Avatar from '@mui/material/Avatar';
-import { styled } from '@mui/material/styles';
-import CardHeader from '@mui/material/CardHeader';
+
 
 
 let color = grey[500]
